@@ -1,0 +1,53 @@
+body {
+    background-color: aqua;
+}
+
+
+h2 {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: lightgreen;
+}
+
+div {
+    margin: 20px;
+}
+
+.head {
+
+    height: auto;
+    background-color: rgb(254, 7, 77);
+    padding: 25px;
+    text-align: center;
+}
+
+a {
+    padding-left: 55px;
+}
+
+.a {
+    height: auto;
+    width: 250px;
+    background-color: rgb(138, 122, 138);
+    border-radius: 25px;
+    text-align: center;
+    padding: 1px;
+    float: left;
+    margin-left: 450px;
+}
+
+.b {
+    height: 680px;
+    width: 250px;
+    background-color: rgb(138, 122, 138);
+    border-radius: 25px;
+    float: right;
+    margin-right: 450px;
+}
+
+
+img {
+    height: 200px;
+    padding-left: 50px;
+}
